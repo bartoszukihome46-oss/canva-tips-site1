@@ -1,0 +1,121 @@
+{
+    "canva_shortcuts": [
+        {
+            "category": "The Essentials (Quick Add)",
+            "shortcuts": [
+                {
+                    "key": "T",
+                    "description": "Add a text box"
+                },
+                {
+                    "key": "R",
+                    "description": "Add a rectangle"
+                },
+                {
+                    "key": "C",
+                    "description": "Add a circle"
+                },
+                {
+                    "key": "L",
+                    "description": "Add a line"
+                }
+            ]
+        },
+        {
+            "category": "Element Manipulation & Layers",
+            "shortcuts": [
+                {
+                    "key": "Ctrl + D",
+                    "description": "Duplicate selected element"
+                },
+                {
+                    "key": "Alt + Drag",
+                    "description": "Quick duplicate"
+                },
+                {
+                    "key": "Ctrl + G",
+                    "description": "Group selected elements"
+                },
+                {
+                    "key": "Ctrl + Shift + G",
+                    "description": "Ungroup elements"
+                },
+                {
+                    "key": "Ctrl + ]",
+                    "description": "Bring element forward one layer"
+                },
+                {
+                    "key": "Ctrl + [",
+                    "description": "Send element backward one layer"
+                },
+                {
+                    "key": "Ctrl + Shift + ]",
+                    "description": "Bring element to the very front"
+                },
+                {
+                    "key": "Ctrl + Shift + [",
+                    "description": "Send element to the very back"
+                }
+            ]
+        },
+        {
+            "category": "Precision & Navigation",
+            "shortcuts": [
+                {
+                    "key": "Arrow Keys",
+                    "description": "Move element by 1 pixel"
+                },
+                {
+                    "key": "Shift + Arrow Keys",
+                    "description": "Move element by 10 pixels"
+                },
+                {
+                    "key": "Ctrl + Scroll",
+                    "description": "Zoom in and out"
+                },
+                {
+                    "key": "Spacebar + Drag",
+                    "description": "Pan around the canvas"
+                },
+                {
+                    "key": "Ctrl + Enter",
+                    "description": "Add a blank new page"
+                }
+            ]
+        },
+        {
+            "category": "Text Formatting",
+            "shortcuts": [
+                {
+                    "key": "Ctrl + B",
+                    "description": "Bold text"
+                },
+                {
+                    "key": "Ctrl + I",
+                    "description": "Italicize text"
+                },
+                {
+                    "key": "Ctrl + U",
+                    "description": "Underline text"
+                },
+                {
+                    "key": "Ctrl + Shift + K",
+                    "description": "Transform text to uppercase/lowercase"
+                },
+                {
+                    "key": "Ctrl + Shift + > / <",
+                    "description": "Increase or decrease font size"
+                }
+            ]
+        },
+        {
+            "category": "Help",
+            "shortcuts": [
+                {
+                    "key": "? (or Shift + /)",
+                    "description": "Open complete shortcuts menu"
+                }
+            ]
+        }
+    ]
+}
